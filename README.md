@@ -1,5 +1,5 @@
-
-Hi, I'm Asiye 👋🏼 a passionate junior software developer eager to contribute to innovative projects and grow as a professional.
+<h1 align="center">Hi 👋, I'm Asiye</h1>
+<h3 align="center">A passionate frontend developer from united Kingdom</h3>
 
 I specialize in HTML, CSS, JavaScript, Ract.js, Node.js, PostgreSQL, Express.
 
