@@ -13,7 +13,7 @@
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asiyeyurtkuran&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asiyeyurtkuran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
