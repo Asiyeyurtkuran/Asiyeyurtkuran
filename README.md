@@ -13,11 +13,11 @@
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asiyeyurtkuran&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
- <p> [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asiyeyurtkuran&layout=compact&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ <span> [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asiyeyurtkuran&layout=compact&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asiyeyurtkuran&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+</span>
 
 
 
