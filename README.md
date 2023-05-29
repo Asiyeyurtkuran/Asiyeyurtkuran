@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asiye</h1>
-<h3 align="center">A passionate frontend developer from united Kingdom</h3>
+<h3 align="center">A passionate frontend developer from United Kingdom</h3>
 
 - 🎓 Recent graduate of Boolean Uks full-stack developer course.
 - 🌱 I'm currently improving all the skills I have learned for 6 months.
