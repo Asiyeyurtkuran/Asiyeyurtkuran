@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asiye</h1>
-<h3 align="center">A passionate frontend developer from United Kingdom</h3>
+<h3 align="center">A passionate full stack developer from United Kingdom</h3>
 
-- 🎓 Recent graduate of Boolean Uks full-stack developer course.
+- 🎓 Recent graduate of Boolean UK full-stack developer course.
 - 🌱 I'm currently improving all the skills I have learned for 6 months.
 - 🔭 I’m currently working on [Flower-shop app](https://github.com/Asiyeyurtkuran/Flower-shop)
 - 🔍 Looking for a challenging position as a junior developer.
